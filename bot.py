@@ -23,4 +23,4 @@ async def hi(ctx):
   
   
   
-bot.run(os.environ['BOT_TOKEN'])
+bot.run(os.environ['NDU1NDA5ODUyNzg5ODE3Mzk1.Df_KMQ.L2B4jTgX87INQ8ivPIej4ixCumk'])
